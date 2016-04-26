@@ -1,0 +1,16 @@
+//
+//  ImageBook-Prefix.pch
+//  ImgBook
+//
+//  Created by Chandan Shetty SP on 9/4/16.
+//  Copyright © 2016 Chandan Shetty SP. All rights reserved.
+//
+
+#ifndef ImageBook_Prefix_pch
+#define ImageBook_Prefix_pch
+
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import "IBKConstants.h"
+
+#endif /* ImageBook_Prefix_pch */
